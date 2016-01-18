@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TeacherSchedule</string>
+    <string name="text_lblName">"Teacher Name : "</string>
+</resources>
